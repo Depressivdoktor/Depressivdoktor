@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning c# and i am a beginner.
 - 
-- 💞️ I’m looking to collaborate with nobody.
+- 💞️ I’m looking to collaborate ...
 - 
 - 📫 How to reach me : Discord Depressivdoktor#5926
 
